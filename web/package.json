@@ -6,7 +6,7 @@
   "dependencies": {
     "dnsd": "^0.9.6",
     "nodejs-websocket": "^1.7.1",
-    "sqlite3": "^3.1.8"
+    "sqlite3": "^5.0.3"
   },
   "devDependencies": {},
   "scripts": {
